@@ -1,0 +1,24 @@
+{
+    "id": 1,
+    "nazwisko": "Kowalski",
+    "wiek": 35,
+    "netto": 3600
+}
+{
+    "id": 2,
+    "nazwisko": "Malinowska",
+    "wiek": 56,
+    "netto": 2900
+}
+{
+    "id": 3,
+    "nazwisko": "Nowak",
+    "wiek": 41,
+    "netto": 4200
+}
+{
+    "id": 4,
+    "nazwisko": "Kowalewski",
+    "wiek": 51,
+    "netto": 3800
+}

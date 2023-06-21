@@ -1,0 +1,33 @@
+
+-- ZADANIE 9
+db.ksiazki.find()
+
+-- ZADANIE 10
+db.ksiazki.updateOne({tytul_ksiazki:"W pustyni i w puszczy"},{$set:{opis:{rok_wydania:2021,wydawnitwo:"PWN"}}})
+db.ksiazki.update({tytul_ksiazki:"Pan Tadeusz"},{$set:{opis:{rok_wydania:2005,wydawnitwo:"PWN"}}})
+db.ksiazki.update({tytul_ksiazki:"Ogniem i mieczem"},{$set:{opis:{rok_wydania:2006,wydawnitwo:"PWN"}}})
+db.ksiazki.update({tytul_ksiazki:"Kordian"},{$set:{opis:{rok_wydania:2021,wydawnitwo:"PWN"}}})
+db.ksiazki.update({tytul_ksiazki:"Sonety Krymskie"},{$set:{opis:{rok_wydania:2010,wydawnitwo:"PWN"}}})
+db.ksiazki.update({tytul_ksiazki:"Dzieje głupoty w Polsce"},{$set:{opis:{rok_wydania:2005,wydawnitwo:"GWP"}}})
+db.ksiazki.update({tytul_ksiazki:"Żona modna"},{$set:{opis:{rok_wydania:2021,wydawnitwo:"PWN"}}})
+db.ksiazki.update({tytul_ksiazki:"Przeszłość praktyczna"},{$set:{opis:{rok_wydania:2000,wydawnitwo:"GWP"}}})
+
+-- ZADANIE 11
+db.ksiazki.find({"opis.rok_wydania":{$gt:2010}},{_id:0,tytul_ksiazki:1,nazwisko_autora:1,"opis.rok_wydania":1})
+var tab_ksiazki=db.ksiazki.find({"opis.rok_wydania":{$gt:2010}},{_id:0,tytul_ksiazki:1,nazwisko_autora:1,"opis.rok_wydania":1}).toArray();
+tab_ksiazki[1]
+
+-- ZADANIE 12
+db.ksiazki.find({"opis.wydawnitwo":"PWN","opis.rok_wydania":{$gte:2000},"opis.rok_wydania":{$lte:2010}},{_id:0,tytul_ksiazki:1,nazwisko_autora:1,"opis.rok_wydania":1,"opis.wydawnitwo":1})
+var tab_ksiazki2=db.ksiazki.find({"opis.wydawnitwo":"PWN","opis.rok_wydania":{$gte:2000},"opis.rok_wydania":{$lte:2010}},{_id:0,tytul_ksiazki:1,nazwisko_autora:1,"opis.rok_wydania":1,"opis.wydawnitwo":1}).toArray();
+tab_ksiazki2[1]
+
+-- ZADANIE 13
+db.ksiazki.find({$or:[{nazwisko_autora:/^S/},{nazwisko_autora:/^B/}],"opis.rok_wydania":{$gt:2005},"opis.wydawnitwo":"PWN"},{_id:0,tytul_ksiazki:1,nazwisko_autora:1,"opis.rok_wydania":1,"opis.wydawnitwo":1})
+var tab_ksiazki3=db.ksiazki.find({$or:[{nazwisko_autora:/^S/},{nazwisko_autora:/^B/}],"opis.rok_wydania":{$gt:2005},"opis.wydawnitwo":"PWN"},{_id:0,tytul_ksiazki:1,nazwisko_autora:1,"opis.rok_wydania":1,"opis.wydawnitwo":1}).toArray();
+tab_ksiazki3[1]
+
+-- ZADANIE 14
+db.ksiazki.find({$nor:[{nazwisko_autora:"Sienkiewicz"},{"opis.rok_wydania":{$gt:2010}}],"opis.rok_wydania":{$gt:2005},"opis.wydawnitwo":"PWN"},{_id:0,tytul_ksiazki:1,nazwisko_autora:1,"opis.rok_wydania":1,"opis.wydawnitwo":1})
+var tab_ksiazki4=db.ksiazki.find({$nor:[{nazwisko_autora:"Sienkiewicz"},{"opis.rok_wydania":{$gt:2010}}],"opis.rok_wydania":{$gt:2005},"opis.wydawnitwo":"PWN"},{_id:0,tytul_ksiazki:1,nazwisko_autora:1,"opis.rok_wydania":1,"opis.wydawnitwo":1})
+tab_ksiazki4[1]

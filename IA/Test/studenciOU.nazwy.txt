@@ -1,0 +1,9 @@
+code_module,
+id_student,
+gender,
+region,
+highest_education,
+age,
+num_of_prev_attempts,
+studied_credits,
+final_result

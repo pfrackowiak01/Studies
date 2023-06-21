@@ -1,0 +1,30 @@
+db.data.find({},{_id:0,miasto:"Gdynia"})
+db.data.find({},{_id:0},{miasto:"Gdynia"})
+
+-- ZADANIE 3
+db.data.find()
+
+-- ZADANIE 4
+db.data.find({miasto:"Gdynia"},{_id:0})
+
+-- ZADANIE 5
+db.data.find({miasto:{$ne:"Sopot"},wiek:{$gte:"18"}},{_id:0,nazwisko:1,miasto:1,pensja:1,wiek:1})
+
+-- ZADANIE 6
+db.data.find({pensja:{$gte:"3000"},pensja:{$lt:"5000"}},{_id:0,nazwisko:1,pensja:1,miasto:1})
+
+-- ZADANIE 7a
+db.data.updateOne({nazwisko:"Kowalski"},{$set:{email:"malina@wp.pl"}})
+db.data.find({},{_id:0})
+
+-- ZADANIE 7b
+db.data.find({email:{$exists:true}},{_id:0})
+
+-- ZADANIE 7c
+db.data.find({email:{$exists:false}},{_id:0})
+
+-- ZADANIE 8
+db.data.find({$or:[{miasto:"Gdynia"},{miasto:"Gdańsk"}],wiek:{$gte:"18"}},{_id:0,nazwisko:1,miasto:1,wiek:1})
+
+-- ZADANIE 9
+db.data.find({nazwisko:"Malinowska",miasto:"Sopot"},{_id:1,nazwisko:1,miasto:1,wiek:1})

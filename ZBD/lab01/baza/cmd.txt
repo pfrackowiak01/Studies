@@ -1,0 +1,13 @@
+SELECT nazwisko from "ZTBD".uosoby where (data_urodzenia<'2000-01-01')
+SELECT nazwisko, data_urodzenia, stanowisko from "ZTBD".pracownicy where (data_zatrudnienia>'2017-12-31')
+SELECT * from "ZTBD".student where kierunek='Informatyka'
+
+
+ALTER TABLE "ZTBD".uosoby
+ADD adres "ZTBD".adres;
+
+UPDATE "ZTBD".studenci
+SET adres = ('Generała Maczka', 8, 2, '81-417', 'Gdynia')
+Where id_osoby = 4;
+
+SELECT * FROM "ZTBD".uosoby where (adres).miasto='Gdansk'

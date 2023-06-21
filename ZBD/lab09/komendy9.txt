@@ -1,0 +1,214 @@
+
+
+----------- ZADANIE 34 -----------
+db.kolekcja2.insert([
+    {
+    nazwisko: "Kowalewski",
+    data_ur: ISODate("2000-01-01"),
+    miasto: "Gdańsk"
+},
+{
+    nazwisko: "Malinowska",
+    data_ur: ISODate("2010-01-01"),
+    miasto: "Sopot"
+},
+{
+    nazwisko: "Nowak",
+    data_ur: ISODate("2011-01-01"),
+    miasto: "Gdynia"
+},
+{
+    nazwisko: "Kosiniak",
+    data_ur: ISODate("2012-01-01"),
+    miasto: "Kraków"
+},
+{
+    nazwisko: "Nowicka",
+    data_ur: ISODate("2004-01-01"),
+    miasto: "Gdynia"
+},
+{
+    nazwisko: "Kalinowski",
+    data_ur: ISODate("2005-01-01"),
+    miasto: "Gdynia"
+},
+{
+    nazwisko: "Nowicki",
+    data_ur: ISODate("2006-01-01"),
+    miasto: "Gdańsk"
+},
+{
+    nazwisko: "Malinowski",
+    data_ur: ISODate("2006-02-01"),
+    miasto: "Gdańsk"
+},
+{
+    nazwisko: "Krasicki",
+    data_ur: ISODate("2011-03-01"),
+    miasto: "Gdańsk"
+},
+{
+    nazwisko: "Sienkiewicz",
+    data_ur: ISODate("2006-03-01"),
+    miasto: "Sopot"
+},
+{
+    nazwisko: "Kubacki",
+    data_ur: ISODate("2011-09-01"),
+    miasto: "Sopot"
+}
+]
+);
+
+db.kolekcja1.find()
+db.kolekcja2.find()
+
+----------- ZADANIE 35 -----------
+db.kolekcja1.aggregate([
+{$lookup: {from: "kolekcja2",localField: "nazwisko",foreignField: "nazwisko",as: "wspolne_dane"}},
+{$unwind: "$wspolne_dane"},
+{$addFields: 
+{
+  data_ur: {$dateToString: {format: "%Y-%m-%d", date: "$wspolne_dane.data_ur"}},
+	miasto: "$wspolne_dane.miasto"
+}},
+{$project: {_id: 0, nazwisko: 1, imie: 1, data_ur: 1, miasto: 1,}}
+])
+==================================
+db.kolekcja2.aggregate([
+{$group:{_id:"$miasto",ile_osob:{$sum:1}}}
+])
+
+----------- ZADANIE 36 -----------
+db.kolekcja1.aggregate([
+{$lookup: {from: "kolekcja2",localField: "nazwisko",foreignField: "nazwisko",as: "wspolne_dane"}},
+{$unwind: "$wspolne_dane"},
+{$addFields: 
+{
+  data_ur: {$dateToString: {format: "%Y-%m-%d", date: "$wspolne_dane.data_ur"}},
+	miasto: "$wspolne_dane.miasto"
+}},
+{$match:{miasto:"Gdynia"}},
+{$project: {_id: 0, nazwisko: 1, imie: 1, data_ur: 1, miasto: 1,}}
+])
+==================================
+db.kolekcja2.aggregate([
+{$match:{miasto:"Gdynia"}},
+{$group:{_id:"$miasto",ile_osob:{$sum:1}}}
+])
+
+
+----------- ZADANIE 37 -----------
+db.kolekcja1.aggregate([
+{$lookup: {from: "kolekcja2",localField: "nazwisko",foreignField: "nazwisko",as: "wspolne_dane"}},
+{$unwind: "$wspolne_dane"},
+{$addFields: 
+{
+  data_ur: {$year: "$data_ur"},
+	miasto: "$wspolne_dane.miasto"
+}},
+{$match:{miasto:"Gdańsk"}},
+{$project: {_id: 0, nazwisko: 1, imie: 1, rok_ur: 1, miasto: 1,}}
+])
+==================================
+db.kolekcja2.aggregate([
+{$match:{rok_ur:{$gt:30}}},
+{$group:{_id:"$miasto",ile_osob:{$sum:1}}}
+])
+
+----------- ZADANIE 38 -----------
+db.createView("zad32","kolekcja1",[
+     {
+    $lookup: {
+      from: "kolekcja2",
+      localField: "nazwisko",
+      foreignField: "nazwisko",
+      as: "wspolne_dane"
+    }
+  },
+  { $unwind: "$wspolne_dane" },
+  {
+    $addFields: {
+     data_ur: {$dateToString: {format: "%Y-%m-%d", date: "$data_ur"}},
+      wiek: { $subtract: [{ $year: ISODate() }, { $year: "$data_ur" }] },
+      rok_ur: { $year: "$data_ur" },
+      mc_ur: {$month: "$data_ur"},
+      dd_ur: {$dayOfMonth: "$data_ur"},
+      miasto: "$wspolne_dane.miasto",
+      wynagr_netto: "$wspolne_dane.wynagr_netto",
+      wynagr_brutto: { $multiply: ["$wspolne_dane.wynagr_netto", 1.23] }
+    }
+  },
+  { $match: { 
+    wynagr_brutto: { $gt: 3000 },
+    miasto: {$ne:"Sopot"} 
+     } 
+  },
+  {
+    $project: {
+      _id: 0,
+      nazwisko: 1,
+      miasto: 1,
+      data_ur: 1,
+      rok_ur: 1,
+      mc_ur: 1,
+      dd_ur: 1,
+      wiek: 1,
+      wynagr_netto: 1,
+      wynagr_brutto: 1
+    }
+  }
+]);
+
+db.zad32.find();
+
+----------- ZADANIE 39 -----------
+db.runCommand({
+  collMod: "zad32",
+  viewOn: "kolekcja1",
+  pipeline: [
+    {
+      $lookup: {
+        from: "kolekcja2",
+        localField: "nazwisko",
+        foreignField: "nazwisko",
+        as: "wspolne_dane"
+      }
+    },
+    { $unwind: "$wspolne_dane" },
+    {
+      $addFields: {
+        data_ur: { $dateToString: { format: "%Y-%m-%d", date: "$data_ur" } },
+        wiek: { $subtract: [{ $year: ISODate() }, { $year: "$data_ur" }] },
+        rok_ur: { $year: "$data_ur" },
+        mc_ur: { $month: "$data_ur" },
+        dd_ur: { $dayOfMonth: "$data_ur" },
+        miasto: "$wspolne_dane.miasto",
+        wynagr_netto: "$wspolne_dane.wynagr_netto",
+        wynagr_brutto: { $multiply: ["$wspolne_dane.wynagr_netto", 1.23] }
+      }
+    },
+    {
+      $match: {
+        miasto: {$ne:"Gdynia"}
+      }
+    },
+    {
+      $project: {
+        _id: 0,
+        nazwisko: 1,
+        miasto: 1,
+        data_ur: 1,
+        rok_ur: 1,
+        mc_ur: 1,
+        dd_ur: 1,
+        wiek: 1,
+        wynagr_netto: 1,
+        wynagr_brutto: 1
+      }
+    }
+  ]
+})
+
+db.zad32.find();
+

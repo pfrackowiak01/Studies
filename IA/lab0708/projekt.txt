@@ -1,0 +1,67 @@
+from pyspark.sql import SparkSession
+import pyspark.sql.functions as F
+
+spark = SparkSession.builder.getOrCreate()
+df = spark.read.csv("car.data", interSchema=True, header=True)
+df.show()
+
+# Pogrupowanie klas bezpieczeństwa dla wszystkich samochodów
+df.groupBy('class').count().show()
+
+# Policzenie ile jest wszystkich przykładowych samochodów
+df.count()
+
+# Sprawdzenie ilości kolumn w bazie danych
+len(df.columns)
+
+# Sprawdzenie rodzaju danych
+df.printSchema()
+
+# Pokazanie szczegółów dla tej bazy danych
+df.describe().show()
+
+# Pokazanie pięciu pierwszych przykładowych samochodów
+df.head(5)
+
+# Tworzenie vector assemblera
+from pyspark.ml.feature import VectorAssembler
+df.columns
+assembler = VectorAssembler(inputCols=[],outputCol="features")
+assembler
+output = assembler.transform(df)
+output.show()
+
+# Wyświetlenie danych w tabeli oraz klasy
+output.select("features", "class").show()
+
+# Połączenie tych danych ze sobą
+model_df = output.select("features", "class")
+model_df.show()
+
+# Rodzielanie danych na treningowe i na testowanie
+training_df, test_df = model_df.randomSplit([0.7,0.3])
+training_df.count()
+test_df.count()
+
+# Tworzenie przewidywań
+from pyspark.ml.classification import DecisionTreeClassifier
+from pyspark.ml.evaluation import MulticlassClassificationEvaluator
+df_classifier = DecisionTreeClassifier(labelCol="class").fit(training_df)
+df_predictions = df_classifier.transform(test_df)
+df_predictions.show()
+
+# Liczenie trafności
+df_accuracy = MulticlassClassificationEvaluator(labelCol="class",metricName="accuracy").evaluate(df_predictions)
+df_accuracy
+
+# Liczenie precyzji
+df_precision = MulticlassClassificationEvaluator(labelCol="class",metricName="weightedPrecision").evaluate(df_predictions)
+df_precision
+
+# Wyświetlenie, który parametr samochodu jest najważniejszy przy sprawdzaniu jego bezpieczeństwa
+df_columns
+df_classifier.featureImportances
+
+# Wyświetlenie AUC
+df_auc = MulticlassClassificationEvaluator(labelCol="class").evaluate(df_predictions)
+df_auc

@@ -1,0 +1,42 @@
+use('ztbd_lab7');
+
+db.kolekcja1.aggregate([
+  {
+    $lookup: {
+      from: "kolekcja2",
+      localField: "nazwisko",
+      foreignField: "nazwisko",
+      as: "wspolne_dane"
+    }
+  },
+  { $unwind: "$wspolne_dane" },
+  {
+    $addFields: {
+      data_ur: {$dateToString: {format: "%Y-%m-%d", date: "$data_ur"}},
+      wiek: { $subtract: [{ $year: ISODate() }, { $year: "$data_ur" }] },
+      rok_ur: { $year: "$data_ur" },
+      mc_ur: {$month: "$data_ur"},
+      dd_ur: {$dayOfMonth: "$data_ur"},
+      miasto: "$wspolne_dane.miasto",
+      wynagr_netto: "$wspolne_dane.wynagr_netto",
+      wynagr_brutto: { $multiply: ["$wspolne_dane.wynagr_netto", 1.23] }
+    }
+  },
+  {
+      $match: {miasto: "Gdańsk"}
+    },
+  {
+    $project: {
+      _id: 0,
+      nazwisko: 1,
+      miasto: 1,
+      data_ur: 1,
+      rok_ur: 1,
+      mc_ur: 1,
+      dd_ur: 1,
+      wiek: 1,
+      wynagr_netto: 1,
+      wynagr_brutto: 1
+    }
+  }
+]);

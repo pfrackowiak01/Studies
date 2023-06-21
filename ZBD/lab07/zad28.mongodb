@@ -1,0 +1,26 @@
+use("ztbd_lab7");
+
+db.kolekcja1.insert([
+    {
+		imie: "Tomasz",
+		nazwisko: "Kowalski",
+		data_ur: ISODate("1998-09-01"),
+    },
+	{
+		imie: "Maria",
+		nazwisko: "Malinowska",
+		data_ur: ISODate("2000-03-03"),
+    },
+	{
+		imie: "Jerzy",
+		nazwisko: "Nowak",
+		data_ur: ISODate("1993-02-09"),
+    },
+    {
+		imie: "Jan",
+		nazwisko: "Kowalewski",
+		data_ur: ISODate("1992-03-12")
+	}
+]
+);
+            

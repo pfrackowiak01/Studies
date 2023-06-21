@@ -1,0 +1,13 @@
+db.osoby.insert({id_osoby:1,imie:"Jan",nazwisko:"Kowalski",pesel:15030309456,nr_tel:510890670})
+
+db.rezerwacje.insert({id_rezerwacji:1,id_osoby:1,nr_pokoju:201,data_pocz:"2021-02-24",data_konc:"2021-02-27"})
+
+db.zaplata.insert({id_zaplaty:1,id_rezerwacji:1,id_uslugi:[1,1,2],rabaty:"student",szkody:"brak",kwota_do_zaplaty:340,czy_zaplacono:"tak"})
+
+db.uslugi.insert({id_uslugi:1,nazwa:"masaz",cena:100})
+
+db.uslugi.insert({id_uslugi:2,nazwa:"spa",cena:120})
+
+db.uslugi.insert({id_uslugi:3,nazwa:"basen",cena:60})
+
+db.osoby.find({},{_id:0})

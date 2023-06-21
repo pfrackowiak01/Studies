@@ -1,0 +1,31 @@
+--ZADANIE 1.
+SELECT nazwisko FROM lab1.uosoby WHERE EXTRACT(YEAR FROM data_urodzenia) < 2001
+SELECT nazwisko, data_urodzenia, stanowisko FROM lab1.pracownicy WHERE (data_zatrudnienia > '2017-12-31')
+SELECT kierunek, COUNT(*) AS liczba_studentow FROM lab1.studenci GROUP BY kierunek;
+
+--ZADANIE 2.
+CREATE TABLE adres(
+	ulica varchar(30),
+	nr_domu varchar(10),
+	nr_mieszkania varchar(10),
+	kod_pocztowy varchar(10),
+	miasto varchar(30)
+);
+
+ALTER TABLE lab1.uosoby
+ADD COLUMN adres_osoby lab1.adres;
+
+UPDATE lab1.studenci
+SET adres = ('Beniowskiego', '7', '4', '80-607', 'Gdynia')
+Where id_osoby = 1;
+
+UPDATE lab1.studenci
+SET adres = ('Starowiejska', '17', '42', '45-632', 'Gdańsk')
+Where id_osoby = 2;
+
+UPDATE lab1.studenci
+SET adres = ('Beniowskiego', '22', '4', '81-612', 'Gdynia')
+Where id_osoby = 3;
+
+SELECT * FROM lab1.uosoby where (adres).miasto='Gdansk';
+SELECT * FROM lab1.uosoby where (adres).ulica='Beniowskiego';

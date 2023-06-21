@@ -1,0 +1,72 @@
+
+-- ZADANIE 15
+db.tab1.find()
+
+
+-- ZADANIE 16
+db.tab2.find()
+
+-- ZADANIE 17
+db.createView("widok","tab1",[
+{
+$lookup:
+{from:"tab2",localField:"tytul_ksiazki",foreignField:"tytul_ksiazki",as:"wspolny_tytul"}
+},
+{$unwind:"$wspolny_tytul"},
+{$addFields:{rok_wydania:"$wspolny_tytul.rok_wydania"}},
+{$addFields:{wydawnictwo:"$wspolny_tytul.wydawnictwo"}},
+{
+$project:
+{_id:0,tytul_ksiazki:1,nazwisko_autora:1,rok_wydania:1}
+}
+]
+{
+$match:
+{rok_wydania:{$gt:2010}}
+}
+)
+======================
+db.tab1.aggregate(
+{$lookup:{from:"tab2",localField:"tytul_ksiazki",foreignField:"tytul_ksiazki",as:"wspolny_tytul"}},
+{$unwind:"$wspolny_tytul"},
+{$addFields:{rok_wydania:"$wspolne_nazwisko.rok_wydania"}},
+{$addFields:{wydawnictwo:"$wspolne_nazwisko.wydawnictwo"}},
+{$project:{_id:0,tytul_ksiazki:1,nazwisko_autora:1,rok_wydania:1}},
+{$match:{rok_wydania:{$gt:2010}}})
+======================
+db.createView("widok3","tab1",[
+{$lookup:{from:"tab2",localField:"tytul_ksiazki",foreignField:"tytul_ksiazki",as:"wspolny_tytul"}},
+{$unwind:"$wspolny_tytul"},
+{$addFields:{rok_wydania:"$wspolny_tytul.rok_wydania"}},
+{$addFields:{wydawnictwo:"$wspolny_tytul.wydawnictwo"}},
+{$project:{_id:0,tytul_ksiazki:1,nazwisko_autora:1,rok_wydania:1}},
+{$match:{rok_wydania:{$gt:2010}}}])
+=====================
+db.widok3.find()
+
+-- ZADANIE 18
+db.createView("widok7","tab1",[
+{$lookup:{from:"tab2",localField:"tytul_ksiazki",foreignField:"tytul_ksiazki",as:"wspolny_tytul"}},
+{$unwind:"$wspolny_tytul"},
+{$addFields:{rok_wydania:"$wspolny_tytul.rok_wydania",wydawnictwo:"$wspolny_tytul.wydawnictwo"}},
+{$project:{_id:0,tytul_ksiazki:1,nazwisko_autora:1,rok_wydania:1,wydawnictwo:1}},
+{$match:{wydawnictwo:"PWN",rok_wydania:{$gte:2000},rok_wydania:{$lte:2010}}}])
+=====================
+db.widok7.find()
+
+-- ZADANIE 19
+db.createView("widok8","tab1",[
+{$lookup:{from:"tab2",localField:"tytul_ksiazki",foreignField:"tytul_ksiazki",as:"wspolny_tytul"}},
+{$unwind:"$wspolny_tytul"},
+{$addFields:{rok_wydania:"$wspolny_tytul.rok_wydania",wydawnictwo:"$wspolny_tytul.wydawnictwo"}},
+{$project:{_id:0,tytul_ksiazki:1,nazwisko_autora:1,rok_wydania:1,wydawnictwo:1}},
+{$match:{$or:[{nazwisko_autora:/^S/},{nazwisko_autora:/^B/}],rok_wydania:{$gt:2005},wydawnictwo:"PWN"}}])
+
+-- ZADANIE 20
+db.createView("widok11","tab1",[
+{$lookup:{from:"tab2",localField:"tytul_ksiazki",foreignField:"tytul_ksiazki",as:"wspolny_tytul"}},
+{$unwind:"$wspolny_tytul"},
+{$addFields:{rok_wydania:"$wspolny_tytul.rok_wydania",wydawnictwo:"$wspolny_tytul.wydawnictwo"}},
+{$project:{_id:0,tytul_ksiazki:1,nazwisko_autora:1,rok_wydania:1,wydawnictwo:1}},
+{$match:{$nor:[{nazwisko_autora:"Sienkiewicz"},{rok_wydania:{$gt:2010}}],rok_wydania:{$gt:2005},wydawnictwo:"PWN"}}])
+

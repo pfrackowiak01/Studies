@@ -1,0 +1,95 @@
+
+-- ZADANIE 21
+db.osoby.find()
+db.zarobki.find()
+
+-- ZADANIE 22
+db.osoby.aggregate(
+{$lookup:{from:"zarobki",localField:"nazwisko",foreignField:"nazwisko",as:"wspolne_nazwisko"}},
+{$unwind:"$wspolne_nazwisko"},
+{$addFields:{miasto:"$wspolne_nazwisko.miasto"}},
+{$addFields:{rok_urodzenia:{$subtract:[2023,"$wiek"]}}},
+{$addFields:{brutto:{$multiply:["$netto",1.23]}}},
+{$project:{_id:0,nazwisko:1,miasto:1,rok_urodzenia:1,netto:1,brutto:1}}).sort({nazwisko:1})
+
+-- ZADANIE 23
+mongoimport --db baza_lab6 --collection brutto --drop --file "C:/Program Files/MongoDB/mongo1/tab3.json"
+use baza_lab6
+show collections
+db.brutto.find()
+
+-- ZADANIE 24 a
+db.brutto.aggregate(
+{$lookup:{from:"osoby",localField:"nazwisko",foreignField:"nazwisko",as:"wspolne_nazwisko"}},
+{$unwind:"$wspolne_nazwisko"},
+{$addFields:{miasto:"$wspolne_nazwisko.miasto"}},
+{$addFields:{rok_urodzenia:{$subtract:[2023,"$wiek"]}}},
+{$addFields:{netto2:{$multiply:["$brutto",0.813]}}},
+{$project:{_id:0,nazwisko:1,miasto:1,rok_urodzenia:1,brutto:1,netto2:1}}).sort({nazwisko:-1})
+
+-- ZADANIE 24 b
+db.createView("porownywanie_netto","brutto",[
+{$lookup:{from:"osoby",localField:"nazwisko",foreignField:"nazwisko",as:"wspolne_nazwisko"}},
+{$unwind:"$wspolne_nazwisko"},
+{$addFields:{miasto:"$wspolne_nazwisko.miasto"}},
+{$addFields:{netto_21:"$wspolne_nazwisko.netto"}},
+{$addFields:{netto_24:{$multiply:["$brutto",0.813]}}},
+{$project:{_id:0,nazwisko:1,miasto:1,netto_21:1,netto_24:1}}
+])
+==========================
+db.porownywanie_netto.find()
+
+-- ZADANIE 25
+db.osoby.aggregate(
+{$lookup:{from:"zarobki",localField:"nazwisko",foreignField:"nazwisko",as:"wspolne_nazwisko"}},
+{$unwind:"$wspolne_nazwisko"},
+{$addFields:{miasto:"$wspolne_nazwisko.miasto"}},
+{$addFields:{rok_urodzenia:{$subtract:[2023,"$wiek"]}}},
+{$addFields:{brutto:{$multiply:["$netto",1.23]}}},
+{$project:{_id:0,nazwisko:1,miasto:1,rok_urodzenia:1,netto:1,brutto:1}},
+{$match:{rok_urodzenia:{$lt:1968},brutto:{$gt:4000}}}
+)
+======================
+db.createView("widok","osoby",[
+{$lookup:{from:"zarobki",localField:"nazwisko",foreignField:"nazwisko",as:"wspolne_nazwisko"}},
+{$unwind:"$wspolne_nazwisko"},
+{$addFields:{miasto:"$wspolne_nazwisko.miasto"}},
+{$addFields:{rok_urodzenia:{$subtract:[2023,"$wiek"]}}},
+{$addFields:{brutto:{$multiply:["$netto",1.23]}}},
+{$project:{_id:0,nazwisko:1,miasto:1,rok_urodzenia:1,netto:1,brutto:1}},
+{$match:{rok_urodzenia:{$lt:1968},brutto:{$gt:4000}}}
+])
+
+-- ZADANIE 26
+db.osoby.aggregate(
+{$lookup:{from:"zarobki",localField:"nazwisko",foreignField:"nazwisko",as:"wspolne_nazwisko"}},
+{$unwind:"$wspolne_nazwisko"},
+{$addFields:{miasto:"$wspolne_nazwisko.miasto"}},
+{$addFields:{rok_urodzenia:{$subtract:[2023,"$wiek"]}}},
+{$addFields:{brutto:{$multiply:["$netto",1.23]}}},
+{$project:{_id:0,nazwisko:1,miasto:1,rok_urodzenia:1,netto:1,brutto:1}},
+{$match:{miasto:{$ne:"Gdynia"},miasto:{$ne:"Sopot"},rok_urodzenia:{$lt:1968},brutto:{$gt:3000}}}
+)
+======================
+db.createView("widok2","osoby",[
+{$lookup:{from:"zarobki",localField:"nazwisko",foreignField:"nazwisko",as:"wspolne_nazwisko"}},
+{$unwind:"$wspolne_nazwisko"},
+{$addFields:{miasto:"$wspolne_nazwisko.miasto"}},
+{$addFields:{rok_urodzenia:{$subtract:[2023,"$wiek"]}}},
+{$addFields:{brutto:{$multiply:["$netto",1.23]}}},
+{$project:{_id:0,nazwisko:1,miasto:1,rok_urodzenia:1,netto:1,brutto:1}},
+{$match:{miasto:{$ne:"Gdynia"},miasto:{$ne:"Sopot"},rok_urodzenia:{$lt:1968},brutto:{$gt:3000}}}
+])
+
+-- ZADANIE 27
+db.brutto.aggregate(
+{$lookup:{from:"zarobki",localField:"nazwisko",foreignField:"nazwisko",as:"wspolne_nazwisko"}},
+{$unwind:"$wspolne_nazwisko"},
+{$addFields:{miasto:"$wspolne_nazwisko.miasto"}},
+{$addFields:{rok_urodzenia:{$subtract:[2023,"$wiek"]}}},
+{$addFields:{netto_20:{$multiply:["$brutto",0.833]}}},
+{$addFields:{netto_23:{$multiply:["$brutto",0.813]}}},
+{$addFields:{roznica_netto:{$subtract:["$netto_20","$netto_23"]}}},
+{$project:{_id:0,nazwisko:1,miasto:1,rok_urodzenia:1,brutto:1,netto_20:1,netto_23:1,roznica_netto:1}}
+)
+

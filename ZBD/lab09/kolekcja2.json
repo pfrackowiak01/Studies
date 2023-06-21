@@ -1,0 +1,55 @@
+{
+    "nazwisko": "Kowalewski",
+    "data_ur": ISODate("2000-01-01"),
+    "miasto": "Gdańsk"
+}
+{
+    "nazwisko": "Malinowska",
+    "data_ur": ISODate("2010-01-01"),
+    "miasto": "Sopot"
+}
+{
+    "nazwisko": "Nowak",
+    "data_ur": ISODate("2011-01-01"),
+    "miasto": "Gdynia"
+}
+{
+    "nazwisko": "Kosiniak",
+    "data_ur": ISODate("2012-01-01"),
+    "miasto": "Kraków"
+}
+{
+    "nazwisko": "Nowicka",
+    "data_ur": ISODate("2004-01-01"),
+    "miasto": "Gdynia"
+}
+{
+    "nazwisko": "Kalinowski",
+    "data_ur": ISODate("2005-01-01"),
+    "miasto": "Gdynia"
+}
+{
+    "nazwisko": "Nowicki",
+    "data_ur": ISODate("2006-01-01"),
+    "miasto": "Gdańsk"
+}
+{
+    "nazwisko": "Malinowski",
+    "data_ur": ISODate("2006-0-01"),
+    "miasto": "Gdańsk"
+}
+{
+    "nazwisko": "Krasicki",
+    "data_ur": ISODate("2011-03-01"),
+    "miasto": "Gdańsk"
+}
+{
+    "nazwisko": "Sienkiewicz",
+    "data_ur": ISODate("2006-03-01"),
+    "miasto": "Sopot"
+}
+{
+    "nazwisko": "Kubacki",
+    "data_ur": ISODate("2011-09-01"),
+    "miasto": "Sopot"
+}

@@ -1,0 +1,4 @@
+{"imie":"Tomasz","nazwisko":"Kowalski","data_ur":{"$date":"1992-09-01T00:00:00.000Z"}}
+{"imie":"Maria","nazwisko":"Malinowska","data_ur":{"$date":"1991-05-09T00:00:00.000Z"}}
+{"imie":"Jerzy","nazwisko":"Nowak","data_ur":{"$date":"1993-05-09T00:00:00.000Z"}}
+{"imie":"Jan","nazwisko":"Kowalewski","data_ur":{"$date":"1993-10-12T00:00:00.000Z"}}

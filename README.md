@@ -14,6 +14,7 @@ Projects for my studies
 - Red–black tree
 - Mound
 - Graph
+- Stack - LIFO (Last-In, First-Out)
 
 ---
 

@@ -45,7 +45,7 @@ Projects for my studies
 ## MINSI - Metody i Narzędzia Sztucznej Inteligencji (Methods and Tools of Artificial Intelligence)
 
 #### Java:
--
+- Genetic algorithm
 ---
 
 ## ZDB - Zaawansowane Bazy Danych (Advanced Databases)

@@ -49,7 +49,7 @@ Projects for my studies
 - Genetic algorithm
 ---
 
-## ZDB - Zaawansowane Bazy Danych (Advanced Databases)
+## ZBD - Zaawansowane Bazy Danych (Advanced Databases)
 
 #### MongoDB
 - Basics of non-relational databases

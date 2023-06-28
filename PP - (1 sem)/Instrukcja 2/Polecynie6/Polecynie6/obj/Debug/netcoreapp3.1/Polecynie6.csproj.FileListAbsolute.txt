@@ -1,0 +1,13 @@
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecynie6\Polecynie6\bin\Debug\netcoreapp3.1\Polecynie6.exe
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecynie6\Polecynie6\bin\Debug\netcoreapp3.1\Polecynie6.deps.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecynie6\Polecynie6\bin\Debug\netcoreapp3.1\Polecynie6.runtimeconfig.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecynie6\Polecynie6\bin\Debug\netcoreapp3.1\Polecynie6.runtimeconfig.dev.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecynie6\Polecynie6\bin\Debug\netcoreapp3.1\Polecynie6.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecynie6\Polecynie6\bin\Debug\netcoreapp3.1\Polecynie6.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecynie6\Polecynie6\obj\Debug\netcoreapp3.1\Polecynie6.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecynie6\Polecynie6\obj\Debug\netcoreapp3.1\Polecynie6.AssemblyInfoInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecynie6\Polecynie6\obj\Debug\netcoreapp3.1\Polecynie6.AssemblyInfo.cs
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecynie6\Polecynie6\obj\Debug\netcoreapp3.1\Polecynie6.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecynie6\Polecynie6\obj\Debug\netcoreapp3.1\Polecynie6.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecynie6\Polecynie6\obj\Debug\netcoreapp3.1\Polecynie6.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecynie6\Polecynie6\obj\Debug\netcoreapp3.1\Polecynie6.genruntimeconfig.cache

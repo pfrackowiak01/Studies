@@ -1,0 +1,13 @@
+D:\Studia Informatyka UMG\Podstawy Programowania\PROJEKT - Pp i Ob Walca oraz Sztożka\bin\Debug\netcoreapp3.1\PROJEKT - Pp i Ob Walca oraz Sztożka.exe
+D:\Studia Informatyka UMG\Podstawy Programowania\PROJEKT - Pp i Ob Walca oraz Sztożka\bin\Debug\netcoreapp3.1\PROJEKT - Pp i Ob Walca oraz Sztożka.deps.json
+D:\Studia Informatyka UMG\Podstawy Programowania\PROJEKT - Pp i Ob Walca oraz Sztożka\bin\Debug\netcoreapp3.1\PROJEKT - Pp i Ob Walca oraz Sztożka.runtimeconfig.json
+D:\Studia Informatyka UMG\Podstawy Programowania\PROJEKT - Pp i Ob Walca oraz Sztożka\bin\Debug\netcoreapp3.1\PROJEKT - Pp i Ob Walca oraz Sztożka.runtimeconfig.dev.json
+D:\Studia Informatyka UMG\Podstawy Programowania\PROJEKT - Pp i Ob Walca oraz Sztożka\bin\Debug\netcoreapp3.1\PROJEKT - Pp i Ob Walca oraz Sztożka.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\PROJEKT - Pp i Ob Walca oraz Sztożka\bin\Debug\netcoreapp3.1\PROJEKT - Pp i Ob Walca oraz Sztożka.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\PROJEKT - Pp i Ob Walca oraz Sztożka\obj\Debug\netcoreapp3.1\PROJEKT - Pp i Ob Walca oraz Sztożka.csprojAssemblyReference.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\PROJEKT - Pp i Ob Walca oraz Sztożka\obj\Debug\netcoreapp3.1\PROJEKT - Pp i Ob Walca oraz Sztożka.AssemblyInfoInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\PROJEKT - Pp i Ob Walca oraz Sztożka\obj\Debug\netcoreapp3.1\PROJEKT - Pp i Ob Walca oraz Sztożka.AssemblyInfo.cs
+D:\Studia Informatyka UMG\Podstawy Programowania\PROJEKT - Pp i Ob Walca oraz Sztożka\obj\Debug\netcoreapp3.1\PROJEKT - Pp i Ob Walca oraz Sztożka.csproj.CoreCompileInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\PROJEKT - Pp i Ob Walca oraz Sztożka\obj\Debug\netcoreapp3.1\PROJEKT - Pp i Ob Walca oraz Sztożka.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\PROJEKT - Pp i Ob Walca oraz Sztożka\obj\Debug\netcoreapp3.1\PROJEKT - Pp i Ob Walca oraz Sztożka.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\PROJEKT - Pp i Ob Walca oraz Sztożka\obj\Debug\netcoreapp3.1\PROJEKT - Pp i Ob Walca oraz Sztożka.genruntimeconfig.cache

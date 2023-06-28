@@ -1,0 +1,13 @@
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 8\Instrukcja 8 zad 3,4,5,6,7,8\bin\Debug\netcoreapp3.1\Instrukcja 8 zad 3,4,5,6,7,8.exe
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 8\Instrukcja 8 zad 3,4,5,6,7,8\bin\Debug\netcoreapp3.1\Instrukcja 8 zad 3,4,5,6,7,8.deps.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 8\Instrukcja 8 zad 3,4,5,6,7,8\bin\Debug\netcoreapp3.1\Instrukcja 8 zad 3,4,5,6,7,8.runtimeconfig.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 8\Instrukcja 8 zad 3,4,5,6,7,8\bin\Debug\netcoreapp3.1\Instrukcja 8 zad 3,4,5,6,7,8.runtimeconfig.dev.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 8\Instrukcja 8 zad 3,4,5,6,7,8\bin\Debug\netcoreapp3.1\Instrukcja 8 zad 3,4,5,6,7,8.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 8\Instrukcja 8 zad 3,4,5,6,7,8\bin\Debug\netcoreapp3.1\Instrukcja 8 zad 3,4,5,6,7,8.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 8\Instrukcja 8 zad 3,4,5,6,7,8\obj\Debug\netcoreapp3.1\Instrukcja 8 zad 3,4,5,6,7,8.csprojAssemblyReference.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 8\Instrukcja 8 zad 3,4,5,6,7,8\obj\Debug\netcoreapp3.1\Instrukcja 8 zad 3,4,5,6,7,8.AssemblyInfoInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 8\Instrukcja 8 zad 3,4,5,6,7,8\obj\Debug\netcoreapp3.1\Instrukcja 8 zad 3,4,5,6,7,8.AssemblyInfo.cs
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 8\Instrukcja 8 zad 3,4,5,6,7,8\obj\Debug\netcoreapp3.1\Instrukcja 8 zad 3,4,5,6,7,8.csproj.CoreCompileInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 8\Instrukcja 8 zad 3,4,5,6,7,8\obj\Debug\netcoreapp3.1\Instrukcja 8 zad 3,4,5,6,7,8.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 8\Instrukcja 8 zad 3,4,5,6,7,8\obj\Debug\netcoreapp3.1\Instrukcja 8 zad 3,4,5,6,7,8.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 8\Instrukcja 8 zad 3,4,5,6,7,8\obj\Debug\netcoreapp3.1\Instrukcja 8 zad 3,4,5,6,7,8.genruntimeconfig.cache

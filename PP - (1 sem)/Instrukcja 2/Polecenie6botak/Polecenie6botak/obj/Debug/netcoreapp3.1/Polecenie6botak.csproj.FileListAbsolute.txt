@@ -1,0 +1,13 @@
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie6botak\Polecenie6botak\bin\Debug\netcoreapp3.1\Polecenie6botak.exe
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie6botak\Polecenie6botak\bin\Debug\netcoreapp3.1\Polecenie6botak.deps.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie6botak\Polecenie6botak\bin\Debug\netcoreapp3.1\Polecenie6botak.runtimeconfig.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie6botak\Polecenie6botak\bin\Debug\netcoreapp3.1\Polecenie6botak.runtimeconfig.dev.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie6botak\Polecenie6botak\bin\Debug\netcoreapp3.1\Polecenie6botak.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie6botak\Polecenie6botak\bin\Debug\netcoreapp3.1\Polecenie6botak.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie6botak\Polecenie6botak\obj\Debug\netcoreapp3.1\Polecenie6botak.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie6botak\Polecenie6botak\obj\Debug\netcoreapp3.1\Polecenie6botak.AssemblyInfoInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie6botak\Polecenie6botak\obj\Debug\netcoreapp3.1\Polecenie6botak.AssemblyInfo.cs
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie6botak\Polecenie6botak\obj\Debug\netcoreapp3.1\Polecenie6botak.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie6botak\Polecenie6botak\obj\Debug\netcoreapp3.1\Polecenie6botak.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie6botak\Polecenie6botak\obj\Debug\netcoreapp3.1\Polecenie6botak.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie6botak\Polecenie6botak\obj\Debug\netcoreapp3.1\Polecenie6botak.genruntimeconfig.cache

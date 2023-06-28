@@ -1,0 +1,13 @@
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 10,11,12\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 10,11,12.exe
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 10,11,12\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 10,11,12.deps.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 10,11,12\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 10,11,12.runtimeconfig.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 10,11,12\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 10,11,12.runtimeconfig.dev.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 10,11,12\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 10,11,12.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 10,11,12\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 10,11,12.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 10,11,12\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 10,11,12.csprojAssemblyReference.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 10,11,12\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 10,11,12.AssemblyInfoInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 10,11,12\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 10,11,12.AssemblyInfo.cs
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 10,11,12\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 10,11,12.csproj.CoreCompileInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 10,11,12\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 10,11,12.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 10,11,12\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 10,11,12.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 10,11,12\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 10,11,12.genruntimeconfig.cache

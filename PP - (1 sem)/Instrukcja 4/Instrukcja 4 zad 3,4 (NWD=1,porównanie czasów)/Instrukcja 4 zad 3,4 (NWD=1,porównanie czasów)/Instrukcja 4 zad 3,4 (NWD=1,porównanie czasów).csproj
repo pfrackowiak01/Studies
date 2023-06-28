@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Instrukcja_4_zad_3_4__NWD_1_porównanie_czasów_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

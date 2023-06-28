@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAlignment="center"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/tlo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="TODO"
+        android:scaleType="centerCrop"
+        android:src="@drawable/menu_background" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:shadowColor="#000000"
+            android:shadowRadius="10"
+            android:text="SUMMONERS BATTLE"
+            android:layout_margin="10dp"
+            android:textColor="#FF9800"
+            android:textSize="48sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/pt_latwy"
+                style="@style/Widget.AppCompat.Button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="rozpocznijGre"
+                android:text="GRAJ"
+                android:shadowColor="#000000"
+                android:shadowRadius="10"
+                android:layout_margin="10dp"
+                android:textColor="#FFFFFF"
+                tools:ignore="TextContrastCheck" />
+
+            <Button
+                android:id="@+id/m_off"
+                style="@style/Widget.AppCompat.Button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="opcje"
+                android:text="OPCJE"
+                android:shadowColor="#000000"
+                android:shadowRadius="10"
+                android:layout_margin="10dp"
+                android:textColor="#FFFFFF"
+                tools:ignore="TextContrastCheck" />
+
+            <Button
+                android:id="@+id/j_e"
+                style="@style/Widget.AppCompat.Button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="wyjdz"
+                android:text="WYJDŹ"
+                android:shadowColor="#000000"
+                android:shadowRadius="10"
+                android:layout_margin="10dp"
+                android:textColor="#FFFFFF"
+                tools:ignore="TextContrastCheck" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

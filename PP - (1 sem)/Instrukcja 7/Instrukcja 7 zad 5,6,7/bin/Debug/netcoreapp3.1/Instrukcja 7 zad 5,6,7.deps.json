@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Instrukcja 7 zad 5,6,7/1.0.0": {
+        "runtime": {
+          "Instrukcja 7 zad 5,6,7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Instrukcja 7 zad 5,6,7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

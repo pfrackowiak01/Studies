@@ -1,0 +1,13 @@
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie 1\Polecenie 1\bin\Debug\netcoreapp3.1\Polecenie 1.exe
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie 1\Polecenie 1\bin\Debug\netcoreapp3.1\Polecenie 1.deps.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie 1\Polecenie 1\bin\Debug\netcoreapp3.1\Polecenie 1.runtimeconfig.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie 1\Polecenie 1\bin\Debug\netcoreapp3.1\Polecenie 1.runtimeconfig.dev.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie 1\Polecenie 1\bin\Debug\netcoreapp3.1\Polecenie 1.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie 1\Polecenie 1\bin\Debug\netcoreapp3.1\Polecenie 1.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie 1\Polecenie 1\obj\Debug\netcoreapp3.1\Polecenie 1.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie 1\Polecenie 1\obj\Debug\netcoreapp3.1\Polecenie 1.AssemblyInfoInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie 1\Polecenie 1\obj\Debug\netcoreapp3.1\Polecenie 1.AssemblyInfo.cs
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie 1\Polecenie 1\obj\Debug\netcoreapp3.1\Polecenie 1.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie 1\Polecenie 1\obj\Debug\netcoreapp3.1\Polecenie 1.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie 1\Polecenie 1\obj\Debug\netcoreapp3.1\Polecenie 1.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 2\Polecenie 1\Polecenie 1\obj\Debug\netcoreapp3.1\Polecenie 1.genruntimeconfig.cache

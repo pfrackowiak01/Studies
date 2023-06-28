@@ -1,0 +1,24 @@
+12 klas
+GUI - 7 zaprojektowanych wyskakujących okien (JFrame)
+ActionListener - dla każdego okna
+MouseListener - dla (Bitwa) i (Postacie)
+Lista - (Postacie) pomaga przy MouseListenerze
+           Pozwala obramowywać każdy obraz z osobna
+           Na czarno po najechaniu, na pusto po wyjechaniu i
+           na zielono po kliknięciu (do max 3)
+Dziedziczenie - (Potwór) i (Bohater) dziedziczy od (Postaci)
+                       Wszystkie statystyki i metody do
+                       wyprowadzenia uderzeń oraz czarów.
+JOptionPane - (Postacie) Okienka informacyjne
+Obsługa Wyjątków (try...catch) - Przy metodzie Thread.sleep, aby zaczekać przy turze Potwora.
+
+- Konstruktory
+- Atrybuty i metody instancyjne
+- Atrybuty i metody klasowe (static)
+- super, this
+- @Override metoda toString
+
+===============================================
+Próbowałem, lecz implementacja nie miała większego sensu:
+- Polimorfizm dla Bohatera i Potwora - niepotrzebne - samo Dziedziczenie w pełni wystarcza.
+- Rzutowanie klas niepotrzebne, gdyż posługuję się ogólno-dostępowymi staticami

@@ -1,0 +1,11 @@
+D:\Studia Informatyka UMG\2 semestr\PP\Główny Projekt PP - Aplikacja okienkowa\PP projekt - Histogram ocen\bin\Debug\PP projekt - Histogram ocen.exe.config
+D:\Studia Informatyka UMG\2 semestr\PP\Główny Projekt PP - Aplikacja okienkowa\PP projekt - Histogram ocen\bin\Debug\PP projekt - Histogram ocen.exe
+D:\Studia Informatyka UMG\2 semestr\PP\Główny Projekt PP - Aplikacja okienkowa\PP projekt - Histogram ocen\bin\Debug\PP projekt - Histogram ocen.pdb
+D:\Studia Informatyka UMG\2 semestr\PP\Główny Projekt PP - Aplikacja okienkowa\PP projekt - Histogram ocen\obj\Debug\PP projekt - Histogram ocen.csprojAssemblyReference.cache
+D:\Studia Informatyka UMG\2 semestr\PP\Główny Projekt PP - Aplikacja okienkowa\PP projekt - Histogram ocen\obj\Debug\PP_projekt___Histogram_ocen.Form1.resources
+D:\Studia Informatyka UMG\2 semestr\PP\Główny Projekt PP - Aplikacja okienkowa\PP projekt - Histogram ocen\obj\Debug\PP_projekt___Histogram_ocen.Properties.Resources.resources
+D:\Studia Informatyka UMG\2 semestr\PP\Główny Projekt PP - Aplikacja okienkowa\PP projekt - Histogram ocen\obj\Debug\PP projekt - Histogram ocen.csproj.GenerateResource.cache
+D:\Studia Informatyka UMG\2 semestr\PP\Główny Projekt PP - Aplikacja okienkowa\PP projekt - Histogram ocen\obj\Debug\PP projekt - Histogram ocen.csproj.CoreCompileInputs.cache
+D:\Studia Informatyka UMG\2 semestr\PP\Główny Projekt PP - Aplikacja okienkowa\PP projekt - Histogram ocen\obj\Debug\PP projekt - Histogram ocen.exe
+D:\Studia Informatyka UMG\2 semestr\PP\Główny Projekt PP - Aplikacja okienkowa\PP projekt - Histogram ocen\obj\Debug\PP projekt - Histogram ocen.pdb
+D:\Studia Informatyka UMG\2 semestr\PP\Główny Projekt PP - Aplikacja okienkowa\PP projekt - Histogram ocen\obj\Debug\PP_projekt___Histogram_ocen.Form2.resources

@@ -1,0 +1,26 @@
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.csprojAssemblyReference.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.AssemblyInfoInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.AssemblyInfo.cs
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.csproj.CoreCompileInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.exe
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.deps.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.runtimeconfig.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.runtimeconfig.dev.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.genruntimeconfig.cache
+D:\Studia Informatyka UMG\1 semestr\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.exe
+D:\Studia Informatyka UMG\1 semestr\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.deps.json
+D:\Studia Informatyka UMG\1 semestr\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.runtimeconfig.json
+D:\Studia Informatyka UMG\1 semestr\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.runtimeconfig.dev.json
+D:\Studia Informatyka UMG\1 semestr\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.dll
+D:\Studia Informatyka UMG\1 semestr\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\bin\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.pdb
+D:\Studia Informatyka UMG\1 semestr\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.csprojAssemblyReference.cache
+D:\Studia Informatyka UMG\1 semestr\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.AssemblyInfoInputs.cache
+D:\Studia Informatyka UMG\1 semestr\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.AssemblyInfo.cs
+D:\Studia Informatyka UMG\1 semestr\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.csproj.CoreCompileInputs.cache
+D:\Studia Informatyka UMG\1 semestr\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.dll
+D:\Studia Informatyka UMG\1 semestr\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.pdb
+D:\Studia Informatyka UMG\1 semestr\Podstawy Programowania\Instrukcja 7\Instrukcja 7 zad 1,2,3,4\obj\Debug\netcoreapp3.1\Instrukcja 7 zad 1,2,3,4.genruntimeconfig.cache

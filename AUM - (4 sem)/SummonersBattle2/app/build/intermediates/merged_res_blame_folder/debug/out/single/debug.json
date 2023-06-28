@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_stone2.jpg.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\stone2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_forest2.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\forest2.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_szamanka.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\szamanka.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_demon.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\demon.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_serce.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\serce.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\layout_activity_artefakty.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\layout\\activity_artefakty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_palladyn.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\palladyn.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_mag.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\mag.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_uzdrowicielka.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\uzdrowicielka.png"
+    },
+    {
+        "merged": "com.example.summonersbattle2.app-merged_res-25:/layout_activity_artefakty.xml.flat",
+        "source": "com.example.summonersbattle2.app-main-27:/layout/activity_artefakty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_plain.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\plain.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\layout_activity_wstep.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\layout\\activity_wstep.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_miecze.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\miecze.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\layout_activity_walka.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\layout\\activity_walka.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_wampir.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\wampir.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_stone.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\stone.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_czarownica.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\czarownica.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_druid.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\druid.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_forest.jpg.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\forest.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_zegar.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\zegar.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_tarcza.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\tarcza.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_mountain.jpg.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\mountain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.summonersbattle2.app-merged_res-25:/layout_activity_bohaterzy.xml.flat",
+        "source": "com.example.summonersbattle2.app-main-27:/layout/activity_bohaterzy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\layout_activity_bohaterzy.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\layout\\activity_bohaterzy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_forest3.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\forest3.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_coin.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\coin.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_ninja.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\ninja.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\layout_activity_okno_opcje.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\layout\\activity_okno_opcje.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_assasin.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\assasin.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_menu_background.jpg.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\menu_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\layout_activity_nagroda.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\layout\\activity_nagroda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_topor.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\topor.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\layout_activity_porazka.xml.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\layout\\activity_porazka.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_rycerz.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\rycerz.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_pirat.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\pirat.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_lava.jpg.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\lava.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_desert.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\desert.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\drawable_hydra.png.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\drawable\\hydra.png"
+    },
+    {
+        "merged": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pawel\\.gradle\\daemon\\7.3.3\\com.example.summonersbattle2.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]

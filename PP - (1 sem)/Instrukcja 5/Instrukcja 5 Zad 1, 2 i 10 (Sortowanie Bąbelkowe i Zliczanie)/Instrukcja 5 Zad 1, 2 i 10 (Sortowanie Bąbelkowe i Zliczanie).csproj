@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Instrukcja_5_Zad_1__2_i_10__Sortowanie_Bąbelkowe_i_Zliczanie_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

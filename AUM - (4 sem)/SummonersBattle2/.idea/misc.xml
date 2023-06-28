@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Pawel/AndroidStudioProjects/SummonersBattle2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2665" />
+        <entry key="..\:/Users/Pawel/AndroidStudioProjects/SummonersBattle2/app/src/main/res/layout/activity_artefakt.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pawel/AndroidStudioProjects/SummonersBattle2/app/src/main/res/layout/activity_artefakty.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pawel/AndroidStudioProjects/SummonersBattle2/app/src/main/res/layout/activity_bohater.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Pawel/AndroidStudioProjects/SummonersBattle2/app/src/main/res/layout/activity_bohaterzy.xml" value="0.33" />
+        <entry key="..\:/Users/Pawel/AndroidStudioProjects/SummonersBattle2/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pawel/AndroidStudioProjects/SummonersBattle2/app/src/main/res/layout/activity_nagroda.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pawel/AndroidStudioProjects/SummonersBattle2/app/src/main/res/layout/activity_okno_opcje.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pawel/AndroidStudioProjects/SummonersBattle2/app/src/main/res/layout/activity_porazka.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pawel/AndroidStudioProjects/SummonersBattle2/app/src/main/res/layout/activity_walka.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pawel/AndroidStudioProjects/SummonersBattle2/app/src/main/res/layout/activity_wstep.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pawel/AndroidStudioProjects/SummonersBattle2/app/src/main/res/layout/backup_rules.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pawel/AndroidStudioProjects/SummonersBattle2/app/src/main/res/layout/image_border.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

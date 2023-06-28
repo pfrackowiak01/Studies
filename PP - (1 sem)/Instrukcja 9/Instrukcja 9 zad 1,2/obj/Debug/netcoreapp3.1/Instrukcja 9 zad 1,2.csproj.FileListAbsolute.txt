@@ -1,0 +1,13 @@
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 1,2\bin\Debug\netcoreapp3.1\Instrukcja 9 zad 1,2.exe
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 1,2\bin\Debug\netcoreapp3.1\Instrukcja 9 zad 1,2.deps.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 1,2\bin\Debug\netcoreapp3.1\Instrukcja 9 zad 1,2.runtimeconfig.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 1,2\bin\Debug\netcoreapp3.1\Instrukcja 9 zad 1,2.runtimeconfig.dev.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 1,2\bin\Debug\netcoreapp3.1\Instrukcja 9 zad 1,2.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 1,2\bin\Debug\netcoreapp3.1\Instrukcja 9 zad 1,2.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 1,2\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 1,2.csprojAssemblyReference.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 1,2\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 1,2.AssemblyInfoInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 1,2\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 1,2.AssemblyInfo.cs
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 1,2\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 1,2.csproj.CoreCompileInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 1,2\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 1,2.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 1,2\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 1,2.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 1,2\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 1,2.genruntimeconfig.cache

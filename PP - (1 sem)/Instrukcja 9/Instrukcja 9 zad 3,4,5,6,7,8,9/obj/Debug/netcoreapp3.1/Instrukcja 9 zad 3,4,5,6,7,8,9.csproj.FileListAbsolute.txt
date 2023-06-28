@@ -1,0 +1,13 @@
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 3,4,5,6,7,8,9\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 3,4,5,6,7,8,9.csprojAssemblyReference.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 3,4,5,6,7,8,9\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 3,4,5,6,7,8,9.AssemblyInfoInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 3,4,5,6,7,8,9\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 3,4,5,6,7,8,9.AssemblyInfo.cs
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 3,4,5,6,7,8,9\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 3,4,5,6,7,8,9.csproj.CoreCompileInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 3,4,5,6,7,8,9\bin\Debug\netcoreapp3.1\Instrukcja 9 zad 3,4,5,6,7,8,9.exe
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 3,4,5,6,7,8,9\bin\Debug\netcoreapp3.1\Instrukcja 9 zad 3,4,5,6,7,8,9.deps.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 3,4,5,6,7,8,9\bin\Debug\netcoreapp3.1\Instrukcja 9 zad 3,4,5,6,7,8,9.runtimeconfig.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 3,4,5,6,7,8,9\bin\Debug\netcoreapp3.1\Instrukcja 9 zad 3,4,5,6,7,8,9.runtimeconfig.dev.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 3,4,5,6,7,8,9\bin\Debug\netcoreapp3.1\Instrukcja 9 zad 3,4,5,6,7,8,9.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 3,4,5,6,7,8,9\bin\Debug\netcoreapp3.1\Instrukcja 9 zad 3,4,5,6,7,8,9.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 3,4,5,6,7,8,9\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 3,4,5,6,7,8,9.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 3,4,5,6,7,8,9\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 3,4,5,6,7,8,9.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 9\Instrukcja 9 zad 3,4,5,6,7,8,9\obj\Debug\netcoreapp3.1\Instrukcja 9 zad 3,4,5,6,7,8,9.genruntimeconfig.cache

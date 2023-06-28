@@ -1,0 +1,13 @@
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 1\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 1.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 1\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 1.AssemblyInfoInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 1\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 1.AssemblyInfo.cs
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 1\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 1.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 1\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 1.exe
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 1\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 1.deps.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 1\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 1.runtimeconfig.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 1\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 1.runtimeconfig.dev.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 1\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 1.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 1\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 1.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 1\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 1.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 1\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 1.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 1\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 1.genruntimeconfig.cache

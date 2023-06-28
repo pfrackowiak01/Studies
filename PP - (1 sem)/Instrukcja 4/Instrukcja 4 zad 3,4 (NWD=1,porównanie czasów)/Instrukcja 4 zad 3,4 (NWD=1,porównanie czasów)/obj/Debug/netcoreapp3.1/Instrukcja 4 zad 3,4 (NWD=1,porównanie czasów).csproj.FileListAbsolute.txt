@@ -1,0 +1,13 @@
+C:\Users\Paweł\source\repos\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów).csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów).AssemblyInfoInputs.cache
+C:\Users\Paweł\source\repos\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów).AssemblyInfo.cs
+C:\Users\Paweł\source\repos\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów).csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów).exe
+C:\Users\Paweł\source\repos\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów).deps.json
+C:\Users\Paweł\source\repos\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów).runtimeconfig.json
+C:\Users\Paweł\source\repos\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów).runtimeconfig.dev.json
+C:\Users\Paweł\source\repos\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów).dll
+C:\Users\Paweł\source\repos\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów).pdb
+C:\Users\Paweł\source\repos\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów).dll
+C:\Users\Paweł\source\repos\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów).pdb
+C:\Users\Paweł\source\repos\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów)\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 3,4 (NWD=1,porównanie czasów).genruntimeconfig.cache

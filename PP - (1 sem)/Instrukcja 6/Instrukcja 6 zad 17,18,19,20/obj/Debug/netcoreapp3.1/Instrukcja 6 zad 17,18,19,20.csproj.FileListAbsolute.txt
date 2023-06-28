@@ -1,0 +1,13 @@
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 17,18,19,20\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 17,18,19,20.csprojAssemblyReference.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 17,18,19,20\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 17,18,19,20.AssemblyInfoInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 17,18,19,20\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 17,18,19,20.AssemblyInfo.cs
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 17,18,19,20\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 17,18,19,20.csproj.CoreCompileInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 17,18,19,20\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 17,18,19,20.exe
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 17,18,19,20\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 17,18,19,20.deps.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 17,18,19,20\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 17,18,19,20.runtimeconfig.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 17,18,19,20\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 17,18,19,20.runtimeconfig.dev.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 17,18,19,20\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 17,18,19,20.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 17,18,19,20\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 17,18,19,20.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 17,18,19,20\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 17,18,19,20.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 17,18,19,20\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 17,18,19,20.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 17,18,19,20\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 17,18,19,20.genruntimeconfig.cache

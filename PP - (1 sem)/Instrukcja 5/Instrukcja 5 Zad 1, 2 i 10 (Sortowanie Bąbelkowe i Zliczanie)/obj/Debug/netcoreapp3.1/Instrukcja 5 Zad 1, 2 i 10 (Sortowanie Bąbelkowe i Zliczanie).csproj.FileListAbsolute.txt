@@ -1,0 +1,3 @@
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 5\Instrukcja 5 Zad 1, 2 i 10 (Sortowanie Bąbelkowe i Zliczanie)\obj\Debug\netcoreapp3.1\Instrukcja 5 Zad 1, 2 i 10 (Sortowanie Bąbelkowe i Zliczanie).csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 5\Instrukcja 5 Zad 1, 2 i 10 (Sortowanie Bąbelkowe i Zliczanie)\obj\Debug\netcoreapp3.1\Instrukcja 5 Zad 1, 2 i 10 (Sortowanie Bąbelkowe i Zliczanie).AssemblyInfoInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 5\Instrukcja 5 Zad 1, 2 i 10 (Sortowanie Bąbelkowe i Zliczanie)\obj\Debug\netcoreapp3.1\Instrukcja 5 Zad 1, 2 i 10 (Sortowanie Bąbelkowe i Zliczanie).AssemblyInfo.cs

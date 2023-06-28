@@ -4,6 +4,18 @@ Projects for my studies
 
 ---
 
+## AIPSI - Analiza i Projektowanie Systemów (Systems Analysis and Design)
+
+#### Enterprise Architect:
+- System Vision
+- Use Cases (UML)
+- Class Diagram
+- Dynamic Diagram (Communication, State, Partition)
+- Component Diagram
+- Deployment Diagram
+
+---
+
 ## AISD - Algorytmy i Struktury danych (Algorithms and data structures)
 
 #### Various data structures, for example:
@@ -15,6 +27,14 @@ Projects for my studies
 - Mound
 - Graph
 - Stack - LIFO (Last-In, First-Out)
+
+---
+
+## AUM - Architektura Urządzeń Mobilnych (Mobile Device Architecture)
+
+#### Java (Android Studio):
+
+- Simple Strategic Turn-Based Mobile Game
 
 ---
 
@@ -32,7 +52,7 @@ Projects for my studies
 
 ## IO - Inteligencja Obliczeniowa (Computational Intelligence)
 
-#### Java:
+#### Java (IntelliJ IDEA):
 - Bin Packing
 - ComiVoyager
 - Greedy Search
@@ -45,13 +65,37 @@ Projects for my studies
 
 ## MINSI - Metody i Narzędzia Sztucznej Inteligencji (Methods and Tools of Artificial Intelligence)
 
-#### Java:
+#### Java (IntelliJ IDEA):
 - Genetic algorithm
+---
+
+## PIG - Projektowanie Interfejsów Graficznych (Designing Graphical Interfaces)
+
+#### MATLAB:
+- A simple design of a greenhouse management system 
+
+---
+
+## PO - Programowanie Obiektowe (Object Oriented Programming)
+
+#### Java (IntelliJ IDEA / Eclipse):
+
+- Simple Strategic Turn-Based Game
+
+---
+
+## PP - Podstawy Programowania (Basics of programing)
+
+#### C# (Visual Studio):
+
+- Console Application (1 sem)
+- Window Application (2 sem)
+
 ---
 
 ## ZBD - Zaawansowane Bazy Danych (Advanced Databases)
 
-#### MongoDB
+#### MongoDB:
 - Basics of non-relational databases
 
 ---

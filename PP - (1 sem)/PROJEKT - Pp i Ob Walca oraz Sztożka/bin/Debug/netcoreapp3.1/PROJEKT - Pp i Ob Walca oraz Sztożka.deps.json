@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PROJEKT - Pp i Ob Walca oraz Sztożka/1.0.0": {
+        "runtime": {
+          "PROJEKT - Pp i Ob Walca oraz Sztożka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROJEKT - Pp i Ob Walca oraz Sztożka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

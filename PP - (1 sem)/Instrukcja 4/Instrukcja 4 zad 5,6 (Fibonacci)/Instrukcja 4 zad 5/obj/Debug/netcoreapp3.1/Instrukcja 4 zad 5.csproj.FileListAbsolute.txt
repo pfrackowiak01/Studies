@@ -1,0 +1,26 @@
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5\Instrukcja 4 zad 5\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 5.exe
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5\Instrukcja 4 zad 5\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 5.deps.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5\Instrukcja 4 zad 5\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 5.runtimeconfig.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5\Instrukcja 4 zad 5\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 5.runtimeconfig.dev.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5\Instrukcja 4 zad 5\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 5.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5\Instrukcja 4 zad 5\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 5.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.AssemblyInfoInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.AssemblyInfo.cs
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.genruntimeconfig.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5,6 (Fibonacci)\Instrukcja 4 zad 5\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 5.exe
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5,6 (Fibonacci)\Instrukcja 4 zad 5\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 5.deps.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5,6 (Fibonacci)\Instrukcja 4 zad 5\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 5.runtimeconfig.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5,6 (Fibonacci)\Instrukcja 4 zad 5\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 5.runtimeconfig.dev.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5,6 (Fibonacci)\Instrukcja 4 zad 5\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 5.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5,6 (Fibonacci)\Instrukcja 4 zad 5\bin\Debug\netcoreapp3.1\Instrukcja 4 zad 5.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5,6 (Fibonacci)\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5,6 (Fibonacci)\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.AssemblyInfoInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5,6 (Fibonacci)\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.AssemblyInfo.cs
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5,6 (Fibonacci)\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5,6 (Fibonacci)\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5,6 (Fibonacci)\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 4\Instrukcja 4 zad 5,6 (Fibonacci)\Instrukcja 4 zad 5\obj\Debug\netcoreapp3.1\Instrukcja 4 zad 5.genruntimeconfig.cache

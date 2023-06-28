@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Instrukcja_5_Zad_4__6__8__Sortowanie___Bąbelkowy__Gnom__Wybieranie_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

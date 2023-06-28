@@ -1,0 +1,39 @@
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.exe
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.deps.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.runtimeconfig.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.runtimeconfig.dev.json
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.AssemblyInfoInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.AssemblyInfo.cs
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.dll
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.pdb
+C:\Users\Paweł\Desktop\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.genruntimeconfig.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.exe
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.deps.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.runtimeconfig.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.runtimeconfig.dev.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.csprojAssemblyReference.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.AssemblyInfoInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.AssemblyInfo.cs
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.csproj.CoreCompileInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.genruntimeconfig.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4 i 5\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.csprojAssemblyReference.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4 i 5\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.AssemblyInfoInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4 i 5\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.AssemblyInfo.cs
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4 i 5\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.csproj.CoreCompileInputs.cache
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4 i 5\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4 i 5\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4 i 5\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.exe
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4 i 5\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.deps.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4 i 5\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.runtimeconfig.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4 i 5\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.runtimeconfig.dev.json
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4 i 5\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.dll
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4 i 5\bin\Debug\netcoreapp3.1\Instrukcja 6 zad 4.pdb
+D:\Studia Informatyka UMG\Podstawy Programowania\Instrukcja 6\Instrukcja 6 zad 4 i 5\obj\Debug\netcoreapp3.1\Instrukcja 6 zad 4.genruntimeconfig.cache

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <title>Zadanie 3</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="form3.css" rel="stylesheet">
+        <script defer src="form3.js"></script>
+    </head>
+    <body>
+        <p>Wypełnij formularz</p>
+        <form id="formularz" action="." method="post" onsubmit="return checkForm()">
+        <table>
+            <tr>
+                <td>
+                    <p> Jakie znasz języki? </p>
+                </td>
+                <td>
+                    <p> Języki te znasz w stopniu: </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                  <label><input type="checkbox" name="languages" id="englishLang"> angielski</label><br>
+                </td>
+                <td>
+                    <label class="englishLevelsL"><input type="radio" class="englishLevels" id="englishWeak" value="english1" name ="englishLevels"> słabym</label> 
+
+                    <label class="englishLevelsL"><input type="radio" class="englishLevels" id="englishAverage" value="english2" name ="englishLevels"> średnim</label>
+
+                    <label class="englishLevelsL"><input type="radio" class="englishLevels" id="englishGood" value="english3" name ="englishLevels"> dobrym</label>
+
+                    <label class="englishLevelsL"><input type="radio" class="englishLevels" id="englishGreat" value="english4" name ="englishLevels"> wyśmienitym</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                     <label><input type="checkbox" name="languages" id="frenchLang"> francuski</label><br>
+                </td>
+                <td>
+                    <label class="frenchLevelsL"><input type="radio" class="frenchLevels" name ="frenchLevels" id="frenchWeak"> słabym</label> 
+
+                    <label class="frenchLevelsL"><input type="radio" class="frenchLevels" name ="frenchLevels" id="frenchAverage" > średnim</label>
+
+                    <label class="frenchLevelsL"><input type="radio" class="frenchLevels" name ="frenchLevels" id="frenchGood"> dobrym</label>
+
+                    <label class="frenchLevelsL"><input type="radio" class="frenchLevels" name ="frenchLevels" id="frenchGreat"> wyśmienitym</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label> <input type="checkbox" name="languages" id="germanLang"> niemiecki</label><br>
+                </td>
+                <td>
+                    <label class="germanLevelsL"><input type="radio" class="germanLevels" id="germanWeak" name ="germanLevels"> słabym</label> 
+
+                    <label class="germanLevelsL"><input type="radio" class="germanLevels" id="germanAverage" name ="germanLevels"> średnim</label>
+
+                    <label class="germanLevelsL"><input type="radio" class="germanLevels" id="germanGood" name ="germanLevels"> dobrym</label>
+
+                    <label class="germanLevelsL"><input type="radio" class="germanLevels" id="germanGreat"> wyśmienitym</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="checkbox" name="languages" id="otherLang"> <label>oraz</label><input type="text" name="otherLanguageName" id="otherLanguageName" disabled minlength="5"><br>
+                </td>
+                <td>
+                    <label class="otherLangLevelsL"><input type="radio" class="otherLangLevels" id="otherLangWeak" name ="otherLangLevels"> słabym</label> 
+
+                    <label class="otherLangLevelsL"><input type="radio" class="otherLangLevels" id="otherLangAverage" name ="otherLangLevels" > średnim</label>
+
+                    <label class="otherLangLevelsL"><input type="radio" class="otherLangLevels" id="otherLangGood" name ="otherLangLevels"> dobrym</label>
+
+                    <label class="otherLangLevelsL"><input type="radio" class="otherLangLevels" id="otherLangGreat" name ="otherLangLevels"> wyśmienitym</label>
+                </td>
+            </tr>
+        </table>
+        <br>
+        <input type="submit" value="Wyślij dane">
+        <input type="reset" value="Wyczyść">
+        </form>
+    </body>
+</html>

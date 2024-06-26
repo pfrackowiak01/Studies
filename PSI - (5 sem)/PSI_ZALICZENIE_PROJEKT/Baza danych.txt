@@ -1,0 +1,2 @@
+Baza danych: s47620
+Schemat: wypozyczalniapsi

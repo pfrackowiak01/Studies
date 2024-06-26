@@ -1,0 +1,23 @@
+span.ylli-i-kuq, p.kuq {
+	color:red;
+}
+
+fieldset {
+	display: block;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding-top: 0.35em;
+	padding-bottom: 0.625em;
+	padding-left: 0.75em;
+	padding-right: 0.75em;
+	border: 2px groove (internal value);
+	width: 300px;
+  }
+
+table {
+	border-collapse:collapse;
+}
+
+td {
+	border: 1px solid black;
+}

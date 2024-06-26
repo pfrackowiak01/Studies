@@ -1,0 +1,7 @@
+Konto admina/pracownika (Admin)
+Login: admin@gmail.pl
+Hasło: kernel21
+
+Konto zwykłego użytkownika (Michał)
+Login: mi.ly@gmail.pl
+Hasło: kernel21 

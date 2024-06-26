@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+div#zawartosc {
+    color:#888; 
+    margin-left:10em; 
+    padding: 1px 0 1px 1em;
+}
+
+nav {
+    float:left; 
+    width:8em; 
+    background:#fef3a5; 
+    margin:0;
+}
+
+nav a {
+    display:block; 
+    padding:0.2em 0 0.2em 0.5em; 
+    text-decoration:none; 
+    margin:0;
+    color:black;
+    border-bottom: 1px solid white;
+}
+
+nav a:hover {
+    background-color:#fdc153;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    padding: 5px;
+}
+
+thead {
+    background-color: rgb(235, 235, 235); color:black;
+}
+
+td a:hover {
+    background-color: rgb(255, 228, 170); color:red;
+}
+
+h1, h2, h3 {
+    color: black;
+}

@@ -93,6 +93,17 @@ Projects for my studies
 
 ---
 
+## PSI - Website Design (Basics of programing)
+
+#### PHP (Visual Studio Code):
+
+- Laravel
+- PostgreSQL
+- MVC
+- API
+- TailWind CSS
+
+---
 ## ZBD - Zaawansowane Bazy Danych (Advanced Databases)
 
 #### MongoDB:

@@ -1,7 +1,7 @@
 ## PSI - Projektowanie Serwisów Internetowych (Website Design)
 
 #### Projects:
-- lab 1.1 - Formularze - [ćw1](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB1/form1.html) - [ćw2](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB1/form2.html) - [ćw3](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB1/form3.html)
+- lab 1.1 - [ćw1](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB1/form1.html) - [ćw2](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB1/form2.html) - [ćw3](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB1/form3.html) - formularze
 - LAB 2 - [Zadania](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB2/) - operacje na liczbach i na tekście
 - LAB 3 - [Zadania](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB3/) - potęgi, funkcje, tablice, formularz
 - LAB 4 - [Filtrowanie i wyświetlanie listy pojazdów](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB4/)

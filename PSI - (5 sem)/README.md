@@ -7,7 +7,7 @@
 - Breeze - Authorization
 - Laravel - PHP Framework
 - MySQL - Relational databases
-- TailWind CSS
+- TailWind CSS - CSS Framework
 
 #### Projects:
 - LAB 1 - [ćw1](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB1/form1.html) - [ćw2](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB1/form2.html) - [ćw3](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB1/form3.html) - formularze

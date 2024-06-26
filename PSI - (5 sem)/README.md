@@ -1,6 +1,6 @@
 ## PSI - Projektowanie Serwisów Internetowych (Website Design)
 
-#### Technologies:
+#### TECHNOLOGIES
 - PHP
 - HTML
 - CSS
@@ -9,7 +9,9 @@
 - MySQL - Relational databases
 - TailWind CSS - CSS Framework
 
-#### Projects:
+---
+
+#### PROJECTS
 - LAB 1 - [ćw1](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB1/form1.html) - [ćw2](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB1/form2.html) - [ćw3](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB1/form3.html) - formularze
 - LAB 2 - [Zadania](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB2/) - operacje na liczbach i na tekście
 - LAB 3 - [Zadania](https://foka.umg.edu.pl/~s47620/3%20rok/psi/PSI_LAB3/) - potęgi, funkcje, tablice, formularz
@@ -21,16 +23,18 @@
 - LAB 10 - [Misja Kosmiczna - API](https://foka.umg.edu.pl/~s47620/ASpace2150/public/)
 - ZALICZENIE PROJEKT - [Wypożyczalnia Samochodów](https://foka.umg.edu.pl/~s47620/wypozyczalnia_samochodow/public/)
 
-#### Dane do logowania:
+---
 
-- Dostęp do strony
-Login: student
-Haśło: student
+#### LOGIN DATA
 
-- Konto admina/pracownika (Admin)
-Login: admin@gmail.pl
-Hasło: kernel21
+##### Dostęp do strony:
+- Login: student
+- Hasło: student
 
-- Konto zwykłego użytkownika (Michał)
-Login: mi.ly@gmail.pl
-Hasło: kernel21 
+##### Konto admina/pracownika (Admin):
+- Login: admin@gmail.pl
+- Hasło: kernel21
+
+##### Konto zwykłego użytkownika (Michał):
+- Login: mi.ly@gmail.pl
+- Hasło: kernel21 

@@ -93,7 +93,7 @@ Projects for my studies
 
 ---
 
-## PSI - Website Design (Basics of programing)
+## [PSI - Website Design](https://github.com/pfrackowiak01/Studies/blob/main/PSI%20-%20(5%20sem)/README.md) (Basics of programing)
 
 #### PHP (Visual Studio Code):
 

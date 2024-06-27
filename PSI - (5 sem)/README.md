@@ -21,7 +21,7 @@
 - LAB 7 - [Biblioteka](https://foka.umg.edu.pl/~s47620/laravel_ksiazki/public/)
 - LAB 8,9 - [Misja Kosmiczna](https://foka.umg.edu.pl/~s47620/Space2150/public/)
 - LAB 10 - [Misja Kosmiczna - API](https://foka.umg.edu.pl/~s47620/ASpace2150/public/)
-- ZALICZENIE PROJEKT - [Wypożyczalnia Samochodów](https://foka.umg.edu.pl/~s47620/wypozyczalnia_samochodow/public/)
+- ZALICZENIE PROJEKT - [Wypożyczalnia Samochodów](https://foka.umg.edu.pl/~s47620/wypozyczalnia_samochodow/public/) - [Dokumentacja](https://github.com/pfrackowiak01/Studies/blob/main/PSI%20-%20(5%20sem)/PSI_ZALICZENIE_PROJEKT/Projekt%20%2B%20Uwagi%20-%20PSI%20-%20Paweł%20Frąckowiak%20-%20Wypożyczalnia%20samochodów.pdf)
 
 ---
 
